@@ -10,4 +10,6 @@ https://www.altium.com/viewer/
 
 Uploading the raw link to git schematic:
 
+```
 https://raw.githubusercontent.com/federicogramos/upBusSim/main/upBusSim.SchDoc
+```
