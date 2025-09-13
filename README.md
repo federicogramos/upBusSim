@@ -1,2 +1,6 @@
-# upBusSim
-Switches and glue logic that simulates bus accesses in a uP bus (didactic purpose)
+# About
+
+Work in progress...
+
+Opens with Altium Designer 10.589.22577
+
