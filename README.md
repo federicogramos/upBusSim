@@ -13,3 +13,8 @@ Uploading the raw link to git schematic:
 ```
 https://raw.githubusercontent.com/federicogramos/upBusSim/main/upBusSim.SchDoc
 ```
+
+PCB link to upload in viewer:
+```
+https://raw.githubusercontent.com/federicogramos/upBusSim/main/upBusSim.PcbDoc
+```
